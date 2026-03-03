@@ -61,7 +61,7 @@ export function Navbar() {
         >
           <div className="w-8 h-8 sm:w-10 sm:h-10 flex items-center justify-center">
             <img
-              src="/images/makecomics-logo.png"
+              src="/images/makecomics-logo.svg"
               alt="MakeComics Logo"
               className="w-full h-full object-contain"
             />

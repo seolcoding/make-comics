@@ -40,8 +40,8 @@
   --sidebar-ring: oklch(0.6 0.2 270);
 
   /* Accent colors */
-  --indigo: oklch(0.6 0.2 270);
-  --indigo-light: oklch(0.7 0.15 270);
+  --indigo: oklch(0.6618 0.2214 36.88);
+  --indigo-light: oklch(0.7 0.15 36.88);
   --emerald: oklch(0.65 0.2 160);
 }
 

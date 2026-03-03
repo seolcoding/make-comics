@@ -11,11 +11,12 @@ export function LandingHero() {
             href={TOGETHER_LINK}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full border border-border glass-panel mb-4 sm:mb-6 w-fit"
+            className="flex justify-center items-center gap-1 px-2.5 py-1 rounded-full border border-border glass-panel mb-4 sm:mb-6 w-fit"
           >
             <span className="text-[10px] font-medium text-muted-foreground tracking-[-0.015em]">
-              Powered by Together AI
+              Powered by
             </span>
+            <img src="/poweredby.png" className="h-[18px]"/>
           </a>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-foreground uppercase mb-4 sm:mb-5 tracking-wide font-heading font-semibold leading-tight sm:leading-[5.2rem]">
